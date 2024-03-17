@@ -20,5 +20,9 @@ Este é um simples aplicativo web de biblioteca desenvolvido para um trabalho da
 - jQuery: Biblioteca JavaScript para manipulação de documentos HTML, eventos, animações e AJAX.
 - Google Books API: API que permite acessar informações sobre livros da biblioteca do Google.
 
+## Demonstração:
+![a](https://github.com/enyalorak/BIBLIOTECA---API/assets/82977825/a1ea7cb8-8eff-40c3-ae3c-0025b4a137ca)
+
+![image](https://github.com/enyalorak/BIBLIOTECA---API/assets/82977825/d1ce661e-a909-4fc8-a093-1861cd7f3089)
 ## Autor
 Este projeto foi desenvolvido por Karolayne Macedo e está disponível sob a licença MIT. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
